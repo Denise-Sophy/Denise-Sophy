@@ -1,47 +1,28 @@
 # Hi, I'm Denise 👋
 
-### AI Engineer | Agentic AI | AI Automation | Python
+# Hi, I'm Denise 👋
 
-I build practical AI systems that turn complex workflows into intelligent, automated processes.
+### AI Engineer | Agentic AI | AI Automation
 
-My work focuses on **LLM applications, agentic systems, AI orchestration, RAG, workflow automation, and backend development**.
+I'm an AI Engineer focused on building practical intelligent systems that solve real business problems. I work with **Python, LLMs, AI agents, RAG, model orchestration, and workflow automation**, and I'm currently expanding into **FastAPI, backend engineering, cloud, and production AI architecture**.
 
-### 🔧 What I Work With
+### What I Build
+- 🤖 AI agents & multi-agent systems
+- 🔗 LLM workflows & model chaining
+- 🧠 RAG & knowledge systems
+- ⚙️ AI-powered business automation
+- 🌐 APIs & backend applications
 
-- Python
-- LLMs & AI APIs
-- AI Agents & Multi-Agent Systems
-- Model Chaining & AI Orchestration
-- RAG & Knowledge Systems
-- FastAPI & REST APIs
-- Workflow Automation
-- Git & GitHub
-- Cloud & AI Infrastructure
+### Featured Projects
+**Akili** — AI operations and knowledge-routing system.
 
-### 🚀 Projects
+**AI Meeting Intelligence** — Multi-stage AI pipeline for research, strategy, and meeting briefings.
 
-**Akili** — AI operations and knowledge-routing system for meeting intelligence, action tracking, and workflow automation.
+**Quizzify AI** · **NutriPal** — AI-powered applications.
 
-**AI Meeting Intelligence** — Multi-stage LLM pipeline that researches prospects, analyzes industry context, develops meeting strategy, and generates evidence-aware meeting briefings.
+### Tech
+**Python · LLMs · AI Agents · RAG · FastAPI · APIs · Git · Cloud**
 
-**Quizzify AI** — AI-powered learning and quiz application.
-
-**NutriPal** — AI-assisted nutrition application.
-
-### 🌱 Currently Learning
-
-- FastAPI & backend engineering
-- Production AI architecture
-- AWS AI & cloud services
-- AI evaluation and reliability
-- Scalable agentic systems
-
-### 🎯 What I'm Building Toward
-
-I'm interested in building **production-grade AI applications** that combine intelligent reasoning with solid software engineering, APIs, automation, and cloud infrastructure.
-
----
+🌱 Currently learning **AWS and production-grade AI engineering**.
 
 📍 Nairobi, Kenya
-
-💼 Open to opportunities in AI Engineering, AI Solutions Engineering, and AI/Cloud roles.
