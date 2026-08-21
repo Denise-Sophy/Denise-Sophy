@@ -1,7 +1,5 @@
 # Hi, I'm Denise 👋
 
-# Hi, I'm Denise 👋
-
 ### AI Engineer | Agentic AI | AI Automation
 
 I'm an AI Engineer focused on building practical intelligent systems that solve real business problems. I work with **Python, LLMs, AI agents, RAG, model orchestration, and workflow automation**, and I'm currently expanding into **FastAPI, backend engineering, cloud, and production AI architecture**.
