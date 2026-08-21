@@ -2,8 +2,7 @@
 
 ### AI Engineer | Agentic AI | AI Automation
 
-I'm an AI Engineer focused on building practical intelligent systems that solve real business problems. I work with **Python, LLMs, AI agents, RAG, model orchestration, and workflow automation**, and I'm currently expanding into **FastAPI, backend engineering, cloud, and production AI architecture**.
-
+I'm an AI Engineer focused on building practical intelligent systems that solve real business problems. I work with Python, LLMs, AI agents, RAG, model orchestration, workflow automation, and cybersecurity, with a foundation in cloud and network security. I'm currently expanding into FastAPI, backend engineering, cloud, and production AI architecture.
 ### What I Build
 - 🤖 AI agents & multi-agent systems
 - 🔗 LLM workflows & model chaining
