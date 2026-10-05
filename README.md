@@ -9,7 +9,7 @@ I'm an AI Engineer focused on building practical intelligent systems that solve 
 - 🧠 RAG & knowledge systems
 - ⚙️ AI-powered business automation
 - 🌐 APIs & backend applications
-
+-    MCPs
 ### Featured Projects
 **Akili** — AI operations and knowledge-routing system.
 
